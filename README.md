@@ -1,5 +1,5 @@
 # How TO
-We need to put the specific url of law text to scraped.
+You need to put the specific url of the law text to scrape.
 
 # Library
 * import requests as req
